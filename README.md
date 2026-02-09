@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with expertise in Java, Spring Boot, and React, specializing in scalable real-time applications<br>and high-quality API development. Strong problem-solver with solid DSA and backend fundamentals, committed to<br>building clean, reliable, user-centric systems
+Backend-focused Software Developer with strong expertise in Java, Spring Boot, and RESTful API design, specializing in building scalable, high-performance backend systems and real-time applications. Solid foundation in Data Structures & Algorithms, OOP, and system design, with a proven ability to write clean, maintainable, and production-ready code. Passionate about building reliable, secure, and user-centric systems.
 
 
 ## 🌐 Socials:
