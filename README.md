@@ -1,6 +1,7 @@
 # 💫 About Me:
-Backend-focused Software Developer with strong expertise in Java, Spring Boot, and RESTful API design, specializing in building scalable, high-performance backend systems and real-time applications. Solid foundation in Data Structures & Algorithms, OOP, and system design, with a proven ability to write clean, maintainable, and production-ready code. Passionate about building reliable, secure, and user-centric systems.
-
+Entry-level Backend Developer with hands-on experience in building RESTful APIs using Java and Spring Boot. Strong
+understanding of backend architecture, authentication using JWT, database design, and core computer science funda-
+mentals. Passionate about writing clean, maintainable code and developing scalable backend systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashish007j/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-jha007j/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishjha007j@gmail.com) 
